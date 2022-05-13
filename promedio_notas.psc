@@ -2,7 +2,7 @@ Algoritmo promedio_notas
 	
 	Definir numeroestudiantes,i,j Como Entero
 	Definir nota,acum,promedio Como Real
-	Mostrar "ingrese numero estudiante"
+	Mostrar "ingrese numero de personas"
 	Leer  numeroestudiantes
 	Para  i=1 Hasta numeroestudiantes Con Paso 1 Hacer
 		acum=0
